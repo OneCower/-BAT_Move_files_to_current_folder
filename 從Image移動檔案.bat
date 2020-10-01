@@ -1,0 +1,1 @@
+xcopy D:\Private\小說\ShareX擷取圖片 .\ && rmdir /S /Q D:\Private\小說\ShareX擷取圖片 && mkdir D:\Private\小說\ShareX擷取圖片
